@@ -1,2 +1,2 @@
-From k8s.gcr.io/kube-apiserver:v1.12.3
+From docker.io/istio/examples-bookinfo-productpage-v1:1.15.0
 MAINTAINER HAO
