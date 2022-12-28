@@ -12,7 +12,8 @@ harbor仓库名是一个（默认的lib），可以用镜像名区分工程。
 阿里云构建默认规则：当代码仓库中tag为release-v$version的代码触发构建时，会自动构建版本为$version的镜像；
 docker pull registry.cn-hangzhou.aliyuncs.com/hao_ceshi/build_images:[镜像版本号]
 
-![image](https://user-images.githubusercontent.com/16972722/209780976-3e5348c3-32df-4908-9e54-1e73c515cc30.png)
+![image](https://user-images.githubusercontent.com/16972722/209781226-f2e375ae-ee0d-4072-b373-ff0d5b4d5bdb.png)
+
 1、每次需要修改DOckerfile内的镜像，
 2、去阿里云镜像仓库创建github代码库的关联，创建关联master分支的构建规则。（如果之前创建过，可以省略）
 3、去阿里云镜像仓库执行构建
