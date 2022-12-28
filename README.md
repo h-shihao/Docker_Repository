@@ -12,3 +12,4 @@ harbor仓库名是一个（默认的lib），可以用镜像名区分工程。
 阿里云构建默认规则：当代码仓库中tag为release-v$version的代码触发构建时，会自动构建版本为$version的镜像；
 docker pull registry.cn-hangzhou.aliyuncs.com/hao_ceshi/build_images:[镜像版本号]
 
+https://www.jianshu.com/p/403acaa4ad8b
