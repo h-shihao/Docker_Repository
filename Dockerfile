@@ -1,2 +1,2 @@
-From docker.io/istio/examples-bookinfo-productpage-v1:1.15.0
+From ghcr.io/kube-vip/kube-vip:v0.5.7
 MAINTAINER HAO
