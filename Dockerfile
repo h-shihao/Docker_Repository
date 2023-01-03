@@ -1,2 +1,2 @@
-From ghcr.io/kube-vip/kube-vip:v0.4.1
+From registry.k8s.io/cluster-api/cluster-api-controller:v1.3.1
 MAINTAINER HAO
