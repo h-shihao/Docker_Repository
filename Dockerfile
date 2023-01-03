@@ -1,2 +1,3 @@
-From registry.k8s.io/cluster-api/cluster-api-controller:v1.3.1
+From registry.k8s.io/cluster-api/kubeadm-control-plane-controller:v1.3.1
+
 MAINTAINER HAO
