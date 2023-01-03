@@ -1,4 +1,3 @@
-From registry.k8s.io/cluster-api/kubeadm-bootstrap-controller:v1.3.1
-
+From gcr.io/k8s-staging-cluster-api/capd-manager:v1.3.1
 
 MAINTAINER HAO
