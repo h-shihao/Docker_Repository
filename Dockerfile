@@ -1,3 +1,3 @@
-From gcr.io/k8s-staging-cluster-api/capd-manager:v1.3.1
+From docker.io/grafana/loki:2.7.3
 
 MAINTAINER HAO
