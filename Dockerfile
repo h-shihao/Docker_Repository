@@ -1,3 +1,3 @@
-From mirrorgooglecontainers/kubernetes-zookeeper:1.0-3.4.10
+From mirrorgcrio/kubernetes-kafka:1.0-10.2.1
 
 MAINTAINER HAO
