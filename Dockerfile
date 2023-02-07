@@ -1,3 +1,3 @@
-From docker.io/grafana/loki:2.7.3
+From zookeeper:3.5.5
 
 MAINTAINER HAO
