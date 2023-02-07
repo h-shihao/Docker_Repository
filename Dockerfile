@@ -1,3 +1,3 @@
-From timberio/vector:latest
+From timberio/vector:latest-debian
 
 MAINTAINER HAO
