@@ -1,3 +1,3 @@
-From zookeeper:3.5.5
+From confluentinc/cp-kafka:5.0.1
 
 MAINTAINER HAO
