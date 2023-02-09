@@ -1,4 +1,2 @@
-From logstash:8.6.1
-WORKDIR ${LOGSTASH_HOME}
-RUN bin/logstash-plugin install --no-verify logstash-output-loki
+From golang:1.19.3
 MAINTAINER HAO
