@@ -1,2 +1,2 @@
-From kubevirtmanager/kubevirt-manager:1.2.0
+From kubevirt/fedora-cloud-container-disk-demo:latest
 MAINTAINER HAO
