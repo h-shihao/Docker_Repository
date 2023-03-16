@@ -1,2 +1,2 @@
-From k8s.gcr.io/metrics-server/metrics-server:v0.6.2
+From kubevirtmanager/kubevirt-manager:1.2.0
 MAINTAINER HAO
