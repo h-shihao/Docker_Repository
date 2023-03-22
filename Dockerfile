@@ -1,2 +1,2 @@
-From kubevirt/fedora-cloud-container-disk-demo:latest
+From minio/minio:RELEASE.2023-03-20T20-16-18Z
 MAINTAINER HAO
