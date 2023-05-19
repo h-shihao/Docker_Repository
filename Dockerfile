@@ -1,2 +1,2 @@
-From gcr.io/k8s-staging-sig-storage/nfs-subdir-external-provisioner:v4.0.18
+From dellemc/sdc:3.6.0.6
 MAINTAINER HAO
