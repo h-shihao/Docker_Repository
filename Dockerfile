@@ -1,2 +1,2 @@
-From dellemc/sdc:3.6.0.6
+From registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.7.0
 MAINTAINER HAO
