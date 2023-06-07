@@ -1,2 +1,2 @@
-From registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.7.0
+From ghcr.io/kube-vip/kube-vip:v0.6.0
 MAINTAINER HAO
