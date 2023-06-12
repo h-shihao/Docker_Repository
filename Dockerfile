@@ -1,2 +1,2 @@
-From ghcr.io/kube-vip/kube-vip:v0.6.0
+From osixia/keepalived:stable
 MAINTAINER HAO
