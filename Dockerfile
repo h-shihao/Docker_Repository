@@ -1,2 +1,2 @@
-From gcr.io/k8s-staging-gateway-api/admission-server:v0.6.1
+From gcr.io/kubebuilder/kube-rbac-proxy:v0.11.0
 MAINTAINER HAO
