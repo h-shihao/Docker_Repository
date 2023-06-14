@@ -1,2 +1,2 @@
-From envoyproxy/gateway:v0.3.0
+From k8s.gcr.io/ingress-nginx/kube-webhook-certgen:v1.1.1
 MAINTAINER HAO
