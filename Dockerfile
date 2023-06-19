@@ -1,2 +1,2 @@
-From gcr.io/kubebuilder/kube-rbac-proxy:v0.11.0
+From docker.io/coredns/coredns:1.9.4
 MAINTAINER HAO
