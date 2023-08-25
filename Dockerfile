@@ -1,2 +1,2 @@
-From docker.io/coredns/coredns:1.9.4
+From mongo:6.0.9-jammy
 MAINTAINER HAO
