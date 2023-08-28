@@ -1,2 +1,2 @@
-From mongo:6.0.9-jammy
+From graylog/graylog:5.1.4
 MAINTAINER HAO
