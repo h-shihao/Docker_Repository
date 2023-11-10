@@ -1,2 +1,2 @@
-From graylog/graylog:5.1.4
+From hcr.io/salesforce/sloop:latest
 MAINTAINER HAO
