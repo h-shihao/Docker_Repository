@@ -1,2 +1,2 @@
-From hcr.io/salesforce/sloop:latest
+From ghcr.io/salesforce/sloop:latest
 MAINTAINER HAO
